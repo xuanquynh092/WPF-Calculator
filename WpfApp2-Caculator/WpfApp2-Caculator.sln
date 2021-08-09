@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2-Caculator", "WpfApp2-Caculator\WpfApp2-Caculator.csproj", "{E9359FF3-3152-4081-AAF6-78A84ABCBAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2-CaculatorTests", "WpfApp2-CaculatorTests\WpfApp2-CaculatorTests.csproj", "{698CF715-BEE6-4C4D-A293-8A0251590419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9359FF3-3152-4081-AAF6-78A84ABCBAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9359FF3-3152-4081-AAF6-78A84ABCBAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9359FF3-3152-4081-AAF6-78A84ABCBAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9359FF3-3152-4081-AAF6-78A84ABCBAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698CF715-BEE6-4C4D-A293-8A0251590419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698CF715-BEE6-4C4D-A293-8A0251590419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698CF715-BEE6-4C4D-A293-8A0251590419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698CF715-BEE6-4C4D-A293-8A0251590419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12170845-D152-49C3-BFAF-430ECEC307CF}
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35;packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
